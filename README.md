@@ -15,3 +15,5 @@ General automated ETL process for report creation:
   - **_JavaScript_** code to be used by html template
   - **_PDF_** files with graphs for general metrics and all companies to be attached to report
 4. Create interactive report using cloud-native platform and prepared data
+
+Report itself is a web-based instance and requires specific link to be accessible. Once accessed the report could be downloaded as pdf.
